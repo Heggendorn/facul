@@ -1,1 +1,2 @@
 # facul
+# instalar o pandas
