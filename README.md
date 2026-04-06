@@ -1,2 +1,2 @@
-# facul
-# instalar o pandas
+facul
+instalar o pandas
