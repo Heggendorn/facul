@@ -1,0 +1,65 @@
+
+Marcados com X já foram feitos
+
+1 - Análise descritiva da base de dados
+        Quais são as variáveis numéricas (quantitativas)
+            Necessárias para calcular média, mediana, desvio padrão, mínimo, máximo. 
+            Exemplos: idade,renda, temperatura, número de vendas
+        quais são as variáveis categóricas (qualitativas)
+            Para contagens e proporções (ex: frequência por categoria)
+            Exemplos: gênero, cidade, tipo de produto
+        Como estão a Qualidade dos dados 
+          X-  Valores nulos, dados inconsistentes ou duplicados
+          X-  Tipos de dados incorretos (ex: número como texto) 
+        Estrutura da base
+            Número de linhas (observações) 
+            Número de colunas (variáveis)
+            Tipos de variáveis (numérica, categórica, temporal) 
+
+2 - Regressão Linear Simples
+    Duas variáveis numéricas
+        Uma variável independente (N)  Exemplo: N = número de horas estudadas
+        Uma variável dependente (Y)  Exemplo: Y = nota do aluno
+    Relação potencial entre variáveis
+        Verificar se faz sentido lógico (causalidade ou correlação plausível)
+        Observar se há tendência (crescimento, decaimento)
+    Dados sem muitos valores faltantes
+        Regressão não funciona bem com dados incompletos
+    Distribuição razoavelmente contínua
+        Evitar variáveis muito discretas ou categóricas
+
+3 - Distribuição deFrequência
+    Variáveis categóricas
+        Para contagem direta (frequência absoluta e relativa)
+    Variáveis numéricas
+        Para criar classes (intervalos) e gerar histogramas. Exemplo: b→ faixas salariais
+    Quantidade suficiente de dados
+        Para que a distribuição faça sentido estatístico
+
+4 - Identificação de Outliers
+    Variáveis numéricas
+        Outliers só fazem sentido em dados quantitativos
+    Valores extremos
+        Muito acima ou abaixo da média 
+        Fora do padrão geral
+    Distribuição dos dados. Usar:
+        Boxplot ou Z-score 
+    Possíveis causas dos outliers
+        Erro de coleta (ex: idade = 999) 
+        Evento raro real (ex: renda muito alta)
+
+Conclusão Geral das entregas Obrigatória
+Antes de aplicar qualquer técnica, os alunos devem:
+1.Entender o tipo de cada variável
+2.Limpar e preparar os dados
+3.Selecionar variáveis adequadas para cada análise
+4.Interpretar os resultados (não é só calcular e entregar)
+
+Dia da Explicação dos Códigos (19 à 26 de maio de 2026)
+1. Todos os 4 itens anteriores já implementados e codificados.
+2. Todas as bases de dados devem estar localizadas no Github e carregadas
+no google colab usando umas da ferramentas já vistas em sala (Pandas
+ou PySpark). As aulas dos TEMAS 4 e 5 explicam esse processo.
+3. O objetivo dessa etapa é EXPLICAR O CÓDIGO IMPLEMENTADO. As
+explicações quanto a análise crítica final é na Apresentação Final (09/06 à
+16/06).
