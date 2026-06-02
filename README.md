@@ -60,20 +60,41 @@
     Valor descontado no cartão do usuário.
 
 # Bibliotecas utilizadas no código    
-   ## Pandas
-   ## Numpy
-   ## sklearn
-        - train_test_split
-        - LinearRegression
+   - Pandas
+   - Numpy
+   - sklearn
+   - seaborn
+   - matplotLib 
 
-# Variaveis declaradas:
+
+## Classificação das Variáveis
+
+### Variáveis Numéricas
+
+- Vl_Linha
+- Vl_Trans
+- Vl_Subsidio
+
+### Variáveis Categóricas
+
+- Descricao_da_Aplicacao
+- Operadora
+- Linha
+- Sindicato
+- Sentido
+
+### Variáveis Temporais
+
+- Data_da_Transacao
+- Data_do_Processamento  
+ 
+ # Variaveis declaradas:
    - Pd - pandas 
    - Bu_total - data frame que recebe o CSV sem tratamento
    - Bu - data frame com Csv tratado
    - colunas - lista os campos que irei utilizar 
    - X - Variave de valor independente
    - Y - Variavel de valor dependente
-
 
 
        
