@@ -98,3 +98,10 @@
 
 
        
+# dicionario dos sindicatos
+- RIO ÔNIBUS (Sindicato das Empresas de Ônibus da Cidade do Rio de Janeiro): Representa as empresas de ônibus municipais da capital.
+- SETRERJ (Sindicato das Empresas de Transportes Rodoviários do Estado do Rio de Janeiro): Representa empresas de ônibus intermunicipais, com forte atuação na região metropolitana (Niterói, São Gonçalo, etc.).
+- SETRANSDUC (Sindicato das Empresas de Transportes Rodoviários em Duque de Caxias e Magé): Representa empresas rodoviárias na região de Duque de Caxias, Magé e Guapimirim.
+- TRANSONIBUS (Sindicato das Empresas de Transportes de Passageiros de Nova Iguaçu): Representa empresas de ônibus na Baixada Fluminense (Nova Iguaçu, Belford Roxo, Itaguaí, etc.).
+- SINTERJ (Sindicato das Empresas de Transportes Rodoviários Intermunicipais do Estado do Rio de Janeiro): Representa empresas de transporte rodoviário intermunicipal.
+- SETRANSOL (Sindicato das Empresas de Transportes Rodoviários do Sul Fluminense): Representa empresas da região sul do estado (Barra Mansa, Volta Redonda, etc.).
